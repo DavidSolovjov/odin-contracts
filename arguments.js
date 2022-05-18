@@ -1,0 +1,7 @@
+module.exports = [
+  "0xaEbD4E867c0F1129E249370c1372a5D0EFb436e5", // NFT Address
+  "0x53569a6E822Af3B11137be68e2f944Ae18832aDD", // paymentAddress
+  "0x53569a6E822Af3B11137be68e2f944Ae18832aDD", // payoutAddress
+  "0x7747276E8C5dc926655c2B5a70C9d51BdC6a2F7C", // Token Address
+  "0xA9cc497e49A0D168b3Bb7F1C5d4b4e44932B33a4" // Development Address
+];
